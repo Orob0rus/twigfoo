@@ -44,4 +44,4 @@ This is a work-in-progress, so the collection of snippets will continue to grow 
 
 ## Contact
 
-If you have any questions, feel free to contact me at [email](mailto:your-email@domain.com).
+If you have any questions, feel free to contact me at [email](mailto:dcyph3r.vg@gmail.com).
